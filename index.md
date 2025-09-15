@@ -9,3 +9,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Test header formatting
+- [x] Add image to file
+- [ ] Submit Lab 1
