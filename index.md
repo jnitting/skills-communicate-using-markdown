@@ -5,3 +5,7 @@
 ###### Smallest Header
 
 ![Image of Inpectocat](https://octodex.github.com/images/inspectocat.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
